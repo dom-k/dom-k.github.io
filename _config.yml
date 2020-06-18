@@ -1,0 +1,7 @@
+remote_theme: b2a3e8/jekyll-theme-console
+
+header_pages:
+        - index.md
+        - contact.md
+
+footer: '<a href="https://twitter.com/dmnkkhbch">@dmnkkhbch</a>'
